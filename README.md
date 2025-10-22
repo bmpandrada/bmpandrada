@@ -40,7 +40,7 @@ I'm a **Web Developer** with 2 years of experience building responsive, high-per
 ---
 
 ### 📈 GitHub Stats
-![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmpandrada&show_icons=true&hide=issues&hide_border=true&show=reviews,prs_contribs&hide_rank=false&include_all_commits=true&hide_title=false&show=discussions_started,discussions_answered&hide=prs&hide_avatar=true)
+![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmpandrada&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmpandrada&layout=compact&theme=radical)
 
