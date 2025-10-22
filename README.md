@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFA6&width=600&lines=👋+Hi%2C+I'm+Bruce!;Web+Developer+from+Philippines;React+%7C+Next.js+%7C+TypeScript;Strapi+%7C+PostgreSQL+%7C+TailwindCSS;Agile+Scrum+Team+Player)
 
-
 I'm a **Web Developer** with 2 years of experience building responsive, high-performance, and scalable web applications.
 
 💻 Skilled in **React**, **Next.js**, **TypeScript**, **Strapi**, and **PostgreSQL**  
@@ -40,9 +39,13 @@ I'm a **Web Developer** with 2 years of experience building responsive, high-per
 ---
 
 ### 📈 GitHub Stats
-![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmpandrada&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bmpandrada&show_icons=true&theme=radical" alt="Bruce's GitHub stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmpandrada&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmpandrada&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
