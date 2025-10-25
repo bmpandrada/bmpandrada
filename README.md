@@ -17,6 +17,8 @@ I'm a **Web Developer** with 2 years of experience building responsive, high-per
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,7 +45,7 @@ I'm a **Web Developer** with 2 years of experience building responsive, high-per
 ### 🚀 Featured Projects
 - 🧩 [**friendly-dev**](https://friendly-dev-ten.vercel.app/projects) — Responsive blog platform built with **React Router** & **Strapi**
 - 🗂️ [**Job Applications**](https://update-your-task.vercel.app/) — CRUD system built with **React** and **LocalStorage**
-- 💼 [**Portfolio Website**](https://bmpa-one.vercel.app/) — Personal portfolio built with **Next.js** and **Tailwind CSS**
+- 💼 [**Portfolio Website**](https://bmpa-one.vercel.app/) — Personal portfolio built with **Next.js**, **Tailwind CSS**, **DaisyUI**, and **shadcn/ui**
 
 ---
 
