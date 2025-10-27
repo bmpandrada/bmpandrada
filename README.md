@@ -1,3 +1,5 @@
+https://camo.githubusercontent.com/a93a7cab6a45ef6cd7ad14e738106bcfc74c8de85e3dff5103f2d144412e7577/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4c756967696a6574267374796c653d666c61742d73717561726526636f6c6f723d626c7565
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFA6&width=600&lines=👋+Hi%2C+I'm+Bruce!;Web+Developer+from+Philippines;React+%7C+Next.js+%7C+TypeScript;Strapi+%7C+PostgreSQL+%7C+TailwindCSS;Agile+Scrum+Team+Player)
 
 I'm a **Web Developer** with 2 years of experience building responsive, high-performance, and scalable web applications.
