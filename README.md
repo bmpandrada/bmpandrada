@@ -1,7 +1,3 @@
-### 🐍 My GitHub Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/bmpandrada/bmpandrada/output/github-contribution-grid-snake.svg)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=bmpandrada&style=plastic&color=00BFA6)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFA6&width=600&lines=👋+Hi%2C+I'm+Bruce!;Web+Developer+from+Philippines;React+%7C+Next.js+%7C+TypeScript;Strapi+%7C+PostgreSQL+%7C+TailwindCSS;Agile+Scrum+Team+Player)
