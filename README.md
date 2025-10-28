@@ -55,6 +55,8 @@ I'm a **Web Developer** with 2 years of experience building responsive, high-per
 ### 🐍 GitHub Activity
 
 ![github contribution grid snake animation](https://github.com/bmpandrada/bmpandrada/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](https://github.com/bmpandrada/bmpandrada/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 ---
 
