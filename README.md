@@ -1,18 +1,19 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bmpandrada&style=plastic&color=00BFA6)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFA6&width=600&lines=👋+Hi%2C+I'm+Bruce!;Web+Developer+from+Philippines;React+%7C+Next.js+%7C+TypeScript;Strapi+%7C+PostgreSQL+%7C+TailwindCSS;Agile+Scrum+Team+Player)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFA6&width=600&lines=👋+Hi%2C+I'm+Bruce!;Web+Developer+from+the+Philippines;React+%7C+Next.js+%7C+TypeScript;Strapi+%7C+PostgreSQL+%7C+TailwindCSS;Agile+Scrum+Team+Player)
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Web Developer** with 2 years of experience building responsive, high-performance, and scalable web applications.
+I'm a **Web Developer** with **2 years of professional experience** building responsive, high-performance, and scalable web applications.  
+I focus on crafting clean, maintainable code and seamless user experiences across the full development cycle.
 
 💻 Skilled in **React**, **Next.js**, **TypeScript**, **Strapi**, and **PostgreSQL**  
-🎨 Experienced in **SASS**, **Tailwind CSS**, **HTML**, **CSS**, and **JavaScript**  
-🛠️ Comfortable working with **PHP basics**, **Neon**, **APIs**, and modern **DevOps tools** like **Render**, **Vercel**, and **GitLab CI/CD**  
-🤝 Collaborative team player experienced with **Agile Scrum**, **Jira**, **Figma**, and **Translate** workflows  
-🚀 Passionate about creating seamless user experiences from frontend to backend
+🎨 Experienced with **SASS**, **Tailwind CSS**, **HTML**, **CSS**, and **JavaScript**  
+🛠️ Familiar with **PHP basics**, **API testing (Postman)**, and **DevOps tools** like **Render**, **Vercel**, and **GitLab CI/CD**  
+🤝 Strong team player with hands-on experience in **Agile Scrum**, **Jira**, **Figma**, and **collaborative workflows**  
+🚀 Passionate about building efficient, user-focused solutions using modern frameworks and technologies  
 
 ---
 
@@ -39,6 +40,7 @@ I'm a **Web Developer** with 2 years of experience building responsive, high-per
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-00BFA6?style=for-the-badge&logo=daisyui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,9 +50,10 @@ I'm a **Web Developer** with 2 years of experience building responsive, high-per
 #### 📋 Project Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile_Scrum-00BFA6?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-00BFA6?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
+
 
 ### 🐍 GitHub Activity
 
