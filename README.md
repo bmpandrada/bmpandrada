@@ -6,10 +6,10 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Web Developer** with **2 years of professional experience** building responsive, high-performance, and scalable web applications.  
+I'm a **Web Developer** with **3 years of professional experience** building responsive, high-performance, and scalable web applications.  
 I focus on crafting clean, maintainable code and seamless user experiences across both frontend and backend.
 
-💻 Skilled in **React**, **Next.js**, **TypeScript**, **Strapi**, and **PostgreSQL**  
+💻 Skilled in **React**, **Next.js**,  **WordPress**,  **TypeScript**, **Strapi**, and **PostgreSQL**  
 🎨 Experienced with **SASS**, **Tailwind CSS**, **HTML**, **CSS**, and **JavaScript**  
 🧪 Hands-on with **API testing using Postman**, building REST integrations, and debugging API workflows  
 📊 Familiar with **data visualization using Chart.js** for dashboards and analytics  
